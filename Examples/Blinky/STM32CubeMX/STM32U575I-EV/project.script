@@ -1,0 +1,5 @@
+loadboard STM32U575I-EV allmodes
+project name STM32CubeMX
+project toolchain "MDK-ARM V5"
+project path "C:\working\ST\U5\STM32U575I-EV_BSP\Examples\Blinky_test\STM32CubeMX\STM32U575I-EV"
+SetCopyLibrary "copy only"
