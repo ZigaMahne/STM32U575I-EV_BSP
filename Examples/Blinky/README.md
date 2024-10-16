@@ -14,8 +14,8 @@ is available with various real-time operating systems, for example RTX5 or FreeR
 
 ### CMSIS-Driver Virtual I/O mapping
 
-| CMSIS-Driver VIO  | Board component
-|:------------------|:-------------------------------
-| vioBUTTON0        | USER button (B4)
-| vioLED0           | LED red     (LD6)
-| vioLED1           | LED green   (LD5)
+| CMSIS-Driver VIO      | Board component
+|:----------------------|:--------------------------------------
+| vioBUTTON0            | USER button (B4)
+| vioLED0               | LED red     (LD6)
+| vioLED1               | LED green   (LD5)
