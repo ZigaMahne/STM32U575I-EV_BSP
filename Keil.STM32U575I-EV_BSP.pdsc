@@ -87,11 +87,11 @@
       <feature type="PWR"           n="3"  m="5"       name="External Supply"/>
       <feature type="RAM"           n="1"              name="16-Mbit SRAM"/>
       <feature type="ROM"           n="1"              name="512-Mbit Octo-SPI Flash"/>
-      <feature type="MemoryOther"    n="1"             name="128-Kbit I2C EEPROM"/>
+      <feature type="MemoryOther"   n="1"              name="128-Kbit I2C EEPROM"/>
       <feature type="USB"           n="1"              name="Full-Speed USB Type-C Sink and Source power capability, with Power Delivery controller interface (UCPD)"/>
       <feature type="Joystick"      n="1"              name="5-position Joystick"/>
       <feature type="Camera"        n="1"              name="CMOS camera QSXGA 5 megapixels"/>
-      <feature type="Button"        n="5"              name="Push-Buttons for Reset, Tamper,User, Touchkey"/>
+      <feature type="Button"        n="5"              name="Push-Buttons for Reset, Tamper, User and Touchkey"/>
       <feature type="LED"           n="4"              name="LEDs: COM, Power, User LEDs"/>
       <feature type="GLCD"          n="1"  m="240.320" name="2.8-inch 320x240 TFT color LCD with capacitive touch panel"/>
       <feature type="Poti"          n="1"              name="Analog Voltage Control for ADC Input (potentiometer)"/>
@@ -100,7 +100,7 @@
       <feature type="MIC"           n="1"              name="ST-MEMS digital microphone"/>
       <feature type="Accelerometer" n="1"              name="ST-MEMS 3D digital Accelerometer"/>
       <feature type="Gyro"          n="1"              name="ST-MEMS 3D Gyroscope"/>
-      <feature type="IrDA"          n="1"              name="Light-dependent resistor"/>
+      <feature type="LightSens"     n="1"              name="Light-dependent resistor"/>
       <feature type="CAN"           n="1"              name="FDCAN"/>
       <feature type="RS232"         n="1"              name="RS-232 communication interface"/>
       <feature type="MemCard"       n="1"              name="SDIO interface microSD card"/>
