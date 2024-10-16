@@ -79,7 +79,7 @@ static const pinCfg_t outputCfg[] = {
 // VIN Configuration
 static const pinCfg_t inputCfg[] = {
 //  signal,     pin,                   pull resistor,      active state
-  { vioBUTTON0, GPIO_PIN_ID_PORTC(13), ARM_GPIO_PULL_NONE, VIO_ACTIVE_LOW }
+  { vioBUTTON0, GPIO_PIN_ID_PORTC(13), ARM_GPIO_PULL_NONE, VIO_ACTIVE_HIGH }
 };
 #endif
 
