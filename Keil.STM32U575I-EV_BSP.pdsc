@@ -80,7 +80,6 @@
       <book category="schematic" name="https://www.st.com/resource/en/schematic_pack/mb1550-u575aiq-c02_schematic.pdf" title="Schematics"/>
       <book category="other"     name="Documents/README.md" title="Guide"/>
       <mountedDevice    deviceIndex="0" Dvendor="STMicroelectronics:13" Dname="STM32U575AIIx"/>
-      <compatibleDevice deviceIndex="0" Dvendor="STMicroelectronics:13" DsubFamily="STM32U575"/>
       <feature type="ODbg"          n="1"              name="On-board ST-LINK/V3E"/>
       <feature type="XTAL"          n="16000000"/>
       <feature type="PWR"           n="5"              name="USB Powered"/>
