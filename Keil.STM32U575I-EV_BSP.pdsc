@@ -23,7 +23,6 @@
       - add RTE_Components.h files
       - updated settings in vcpkg-configuration.json file to use cmsis-toolbox 2.9.0
       - add Blinky+STM32U575I-EV.dbgconf and Blinky+STM32U575I-EV.dbgconf.base@1.0.0 files for the Blinky example
-      - modified the CI workflows Test-Examples.yml	  
     </release>
   </releases>
 
