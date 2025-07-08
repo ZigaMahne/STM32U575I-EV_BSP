@@ -13,7 +13,7 @@
   </licenseSets>
 
   <releases>
-    <release version="1.0.2-dev">
+    <release version="1.0.1-dev">
       Active development ...
       Blinky project:
       - specify thread names using thread attributes
@@ -21,7 +21,6 @@
       - modify app_main_thread (replace loop forever)
       - add DWARF-5 debug information
       - add RTE_Components.h files
-      - updated settings in vcpkg-configuration.json file to use cmsis-toolbox 2.9.0
       - add Blinky+STM32U575I-EV.dbgconf and Blinky+STM32U575I-EV.dbgconf.base@1.0.0 files for the Blinky example
     </release>
   </releases>
