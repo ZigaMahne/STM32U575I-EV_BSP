@@ -44,3 +44,10 @@ project:
     - script:  ./RTE/Device/STM32U575AIIx/ac6_linker_script.sct.src
       regions: ./RTE/Device/STM32U575AIIx/regions_STM32U575I-EV.h
       for-compiler: AC6
+
+  # List executable file formats to be generated.
+  output:
+    type:
+      - elf
+      - hex
+      - map
